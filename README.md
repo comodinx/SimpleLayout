@@ -16,7 +16,7 @@ SimpleLayout
         + [Margin][how_to_use_api_margin].
         + [Origin][how_to_use_api_origin].
         + [Size][how_to_use_api_size].
-* [Licencia][license].
+* [License][license].
 
 
 Features
