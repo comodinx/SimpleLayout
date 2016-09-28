@@ -29,7 +29,7 @@ Screen Shots
 ------------
 <p>
     <a href="https://github.com/comodinx/SimpleLayout/blob/master/Screenshots/DemoExample.png?raw=true" target="_blank">
-        <img src="https://github.com/comodinx/SimpleLayout/raw/master/Screenshots/DemoExample.png?raw=true" alt="Demo Example" title="Demo Example" style="width: 320px; height: 568px;">
+        <img src="https://github.com/comodinx/SimpleLayout/raw/master/Screenshots/DemoExample.png?raw=true" alt="Demo Example" title="Demo Example" width="320" height="568">
     </a>
 </p>
 
