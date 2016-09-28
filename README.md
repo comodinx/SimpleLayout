@@ -177,4 +177,4 @@ SimpleLayout is available under the MIT license. See the LICENSE file for more i
 [how_to_use_api_margin]: #margin
 [how_to_use_api_origin]: #origin
 [how_to_use_api_size]: #size
-[license]: #licencia
+[license]: #license
