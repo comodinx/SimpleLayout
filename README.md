@@ -12,7 +12,7 @@ SimpleLayout
 * [Installation][Installation].
 * [How to Use][how_to_use].
     + [Example][how_to_use_example].
-    + [API][how_to_use_api_margins].
+    + [API][how_to_use_api].
         + [Margin][how_to_use_api_margin].
         + [Origin][how_to_use_api_origin].
         + [Size][how_to_use_api_size].
@@ -27,8 +27,11 @@ Features
 
 Screen Shots
 ------------
-![Demo Example](/Screenshots/DemoExample.png?raw=true "Demo Example")
-
+<p>
+    <a href="https://github.com/comodinx/SimpleLayout/blob/master/Screenshots/DemoExample.png?raw=true" target="_blank">
+        <img src="https://github.com/comodinx/SimpleLayout/raw/master/Screenshots/DemoExample.png?raw=true" alt="Demo Example" title="Demo Example" style="width: 320px; height: 568px;">
+    </a>
+</p>
 
 Prerequisites
 -------------
@@ -49,7 +52,7 @@ How to Use
 ----------
 Check out the demo project for a concrete example.
 
-#### Margins
+#### Example
 ``` swift
 let background = UIView()
 
