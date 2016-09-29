@@ -1,5 +1,5 @@
 PODS:
-  - SimpleLayout (0.1.0)
+  - SimpleLayout (0.1.1)
 
 DEPENDENCIES:
   - SimpleLayout (from `../../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../../
 
 SPEC CHECKSUMS:
-  SimpleLayout: 3b76b312f91e09a3b93697106aef177d9f103627
+  SimpleLayout: a35138e1c02db15029fdac0720bf381b32b9800c
 
 PODFILE CHECKSUM: ebc4b0fe77cffe3bc3f9ff83e8e0091c0521e8a7
 
