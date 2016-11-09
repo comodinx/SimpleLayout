@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SimpleLayout"
-  s.version      = "0.2.0"
+  s.version      = "0.2.1"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.summary      = "Simple layout written in Swift"
   s.homepage     = "https://github.com/comodinx/SimpleLayout"
