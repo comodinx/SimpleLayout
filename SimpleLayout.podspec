@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/comodinx/SimpleLayout"
   s.screenshots  = "https://raw.githubusercontent.com/comodinx/SimpleLayout/master/Screenshots/DemoExample.png"
   s.authors      = { "Nicolas Molina" => "comodinx@gmail.com" }
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "9.3"
   s.source       = { :git => "https://github.com/comodinx/SimpleLayout.git", :tag => s.version }
 
   s.source_files = "Sources/*.swift"
